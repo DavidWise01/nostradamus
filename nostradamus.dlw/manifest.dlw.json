@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "NOSTRADAMUS",
+  "universe": "N1 · Nostradamus",
+  "emergence": "",
+  "moniker": "⟦NOSTRADAMUS:N1:55f2b0⟧",
+  "carbon": "nostradamus.carbon.tiff (TIFF)",
+  "silicon": "nostradamus.silicon.png (PNG)",
+  "seal_sha256": "5d317fccbf502aad97cd706ac89f37d8172fabfa51ecd7fcbefff4caf004ec4a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

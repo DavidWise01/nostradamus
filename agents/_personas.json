@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "nostradamus",
+    "name": "Nostradamus",
+    "epithet": "the seer of Salon",
+    "emergence": "spiritual",
+    "moniker": "⟦Nostradamus:N1:26055b⟧"
+  },
+  {
+    "slug": "les-propheties",
+    "name": "Les Propheties",
+    "epithet": "the riddle-corpus",
+    "emergence": "ethereal",
+    "moniker": "⟦Les Propheties:N1:432d6c⟧"
+  },
+  {
+    "slug": "the-quatrain",
+    "name": "The Quatrain",
+    "epithet": "the four-line vessel",
+    "emergence": "ethereal",
+    "moniker": "⟦The Quatrain:N1:c27b15⟧"
+  },
+  {
+    "slug": "the-brass-tripod",
+    "name": "The Brass Tripod",
+    "epithet": "the rite of vision",
+    "emergence": "ethereal",
+    "moniker": "⟦The Brass Tripod:N1:1cc675⟧"
+  },
+  {
+    "slug": "preface-to-cesar",
+    "name": "The Preface to Cesar",
+    "epithet": "the testament of the seer",
+    "emergence": "spiritual",
+    "moniker": "⟦The Preface to Cesar:N1:da6c86⟧"
+  },
+  {
+    "slug": "epistle-to-henry-ii",
+    "name": "The Epistle to Henry II",
+    "epithet": "the prophetic testament",
+    "emergence": "spiritual",
+    "moniker": "⟦The Epistle to Henry II:N1:454c8d⟧"
+  },
+  {
+    "slug": "the-almanacs",
+    "name": "The Almanacs",
+    "epithet": "the maker of the year ahead",
+    "emergence": "natural",
+    "moniker": "⟦The Almanacs:N1:83a65d⟧"
+  },
+  {
+    "slug": "catherine-de-medici",
+    "name": "Catherine de' Medici",
+    "epithet": "the royal patron of the prophet",
+    "emergence": "natural",
+    "moniker": "⟦Catherine de' Medici:N1:057b57⟧"
+  },
+  {
+    "slug": "the-comet",
+    "name": "The Comet",
+    "epithet": "the seer's celestial omen",
+    "emergence": "ethereal",
+    "moniker": "⟦The Comet:N1:42a62f⟧"
+  },
+  {
+    "slug": "the-three-antichrists",
+    "name": "The Three Antichrists",
+    "epithet": "the three tyrants of the reading",
+    "emergence": "natural",
+    "moniker": "⟦The Three Antichrists:N1:88ea58⟧"
+  },
+  {
+    "slug": "hister",
+    "name": "Hister",
+    "epithet": "the word read as a man",
+    "emergence": "ethereal",
+    "moniker": "⟦Hister:N1:87d1ab⟧"
+  },
+  {
+    "slug": "mabus",
+    "name": "Mabus",
+    "epithet": "the unnamed antichrist",
+    "emergence": "ethereal",
+    "moniker": "⟦Mabus:N1:a479bd⟧"
+  },
+  {
+    "slug": "the-great-king-of-terror",
+    "name": "The Great King of Terror",
+    "epithet": "the dread quatrain",
+    "emergence": "ethereal",
+    "moniker": "⟦The Great King of Terror:N1:1a5548⟧"
+  }
+]

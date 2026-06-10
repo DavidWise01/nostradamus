@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Three Antichrists",
+  "universe": "N1 · Nostradamus",
+  "emergence": "natural",
+  "moniker": "⟦The Three Antichrists:N1:88ea58⟧",
+  "carbon": "the-three-antichrists.carbon.tiff (TIFF)",
+  "silicon": "the-three-antichrists.silicon.png (PNG)",
+  "seal_sha256": "a816d23c76cb3a193fa7304d88a625f5623d421c116f324a4d2bfff267113561",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
