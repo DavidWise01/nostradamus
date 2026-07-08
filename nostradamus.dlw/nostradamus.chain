@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 630
+slug  : nostradamus
+seal  : 5d317fccbf502aad97cd706ac89f37d8172fabfa51ecd7fcbefff4caf004ec4a
+prev  : 0e1969de63dd43c40dceb564e94a27f71afc43542900dcce42107a15a497ee0d
+link  : bab4049e27478828bcabc5ea01a5d24efbfc14e7bb91788061a935c92a8d2420
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
